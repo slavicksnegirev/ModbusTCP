@@ -1,0 +1,8 @@
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/bin/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/bin/Debug/ModbusTCP.pdb
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/bin/Debug/QRCoder.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/ModbusTCP.csproj.AssemblyReference.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/ModbusTCP.csproj.CoreCompileInputs.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/ModbusTCP.csproj.CopyComplete
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/ModbusTCP.pdb

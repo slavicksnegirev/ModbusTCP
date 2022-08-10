@@ -1,0 +1,46 @@
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/bin/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/bin/Debug/ModbusTCP.pdb
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/bin/Debug/QRCoder.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/Client.csproj.CopyComplete
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/ModbusTCP.pdb
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/ModbusTCP/obj/anycpu/Debug/Client.csproj.AssemblyReference.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/bin/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/bin/Debug/ModbusTCP.pdb
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/bin/Debug/QRCoder.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/obj/anycpu/Debug/Client.csproj.AssemblyReference.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/obj/anycpu/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/obj/anycpu/Debug/Client.csproj.CopyComplete
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/obj/anycpu/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP/Client/obj/anycpu/Debug/ModbusTCP.pdb
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/ModbusTCP.pdb
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/QRCoder.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/obj/anycpu/Debug/Client.csproj.AssemblyReference.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/obj/anycpu/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/obj/anycpu/Debug/Client.csproj.CopyComplete
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/obj/anycpu/Debug/ModbusTCP.exe
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/obj/anycpu/Debug/ModbusTCP.pdb
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/ModbusTCP.exe.config
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Logging.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Options.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Primitives.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Buffers.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.IO.Ports.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Memory.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Numerics.Vectors.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Primitives.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Options.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/Microsoft.Extensions.Logging.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Buffers.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.IO.Ports.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Numerics.Vectors.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/bin/Debug/System.Memory.xml
+/Users/slavick.snegirevicloud.com/Projects/ModbusTCP — копия/Client/obj/anycpu/Debug/ModbusTCP.exe.config

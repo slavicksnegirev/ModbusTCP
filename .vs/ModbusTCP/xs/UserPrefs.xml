@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{83E8530C-9580-43AF-AAC7-7F1A12A3D5C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/MainWindow.cs">
+    <Files>
+      <File FileName="Client/MainWindow.cs" Line="59" Column="1" IsPinned="True" />
+      <File FileName="Server/MainWindow.cs" Line="80" Column="58" />
+      <File FileName="Client/ModbusTCP.cs" Line="247" Column="27" />
+      <File FileName="Server/ModbusTCP.cs" Line="201" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ModbusTCP" expanded="True">
+            <Node name="Client" expanded="True" selected="True" />
+            <Node name="Server" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>ModbusTCP/Client.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

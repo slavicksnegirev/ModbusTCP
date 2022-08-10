@@ -1,0 +1,14 @@
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/bin/Debug/Modbus.XML
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/bin/Debug/Modbus.dll
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/bin/Debug/Modbus.pdb
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/bin/Debug/log4net.dll
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/bin/Debug/Unme.Common.dll
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/bin/Debug/log4net.xml
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/bin/Debug/Unme.Common.xml
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/obj/Debug/Modbus.csproj.AssemblyReference.cache
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/obj/Debug/Modbus.Resources.resources
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/obj/Debug/Modbus.csproj.GenerateResource.cache
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/obj/Debug/Modbus.csproj.CoreCompileInputs.cache
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/obj/Debug/Modbus.csproj.CopyComplete
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/obj/Debug/Modbus.dll
+/Users/slavick.snegirevicloud.com/Desktop/NModbus_net-3/source/src/Modbus/obj/Debug/Modbus.pdb
